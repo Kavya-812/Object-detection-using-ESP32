@@ -17,8 +17,8 @@ This project leverages the Random Forest Classifier algorithm to detect objects 
 3. Upload the required libraries to the ESP32-CAM.
 4. Train the model on a dataset of images using TensorFlow Lite.
 5. Compile and upload the code to the ESP32-CAM.[arduino-ESP32-code.ino]
-6. Connect the ESP32-CAM to the Jupyter Notebook using a serial connection.
-7. Run the Jupyter Notebook.
+6. Connect the ESP32-CAM and run the arduino sketch.
+7. We can see the output in serial Monitor.
 
 ### Usage
 
